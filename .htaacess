@@ -1,0 +1,7 @@
+SetEnv GHOST_NODE_VERSION_CHECK false
+PassengerStartupFile app.js
+PassengerResolveSymlinksInDocumentRoot on
+Require all granted
+PassengerAppType node
+PassengerAppRoot /home/a0760441/domains/a0760441.xsph.ru/public_html/
+Options -MultiViews 
